@@ -11,3 +11,4 @@ With the noise factor (NF) defined as
 
 ![equation](https://latex.codecogs.com/svg.latex?R_\text{n}(m,k)=1-\left|R_\text{s}(m-k)-R_\text{t}(m,k)\right|^{\frac{1}{NF}}) 
 
+Testing key pair
